@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5.csproj", "{685C647E-EA7A-45C9-B9F1-9ABBB3C587B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_baitoan", "..\lib_baitoan\lib_baitoan.csproj", "{9FF881C1-5784-41A6-862E-DC41C33492FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "..\ConsoleApp6\ConsoleApp6.csproj", "{F6C674EF-3677-48C6-98AF-F3B3191176FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{685C647E-EA7A-45C9-B9F1-9ABBB3C587B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685C647E-EA7A-45C9-B9F1-9ABBB3C587B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685C647E-EA7A-45C9-B9F1-9ABBB3C587B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF881C1-5784-41A6-862E-DC41C33492FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF881C1-5784-41A6-862E-DC41C33492FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF881C1-5784-41A6-862E-DC41C33492FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF881C1-5784-41A6-862E-DC41C33492FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C674EF-3677-48C6-98AF-F3B3191176FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C674EF-3677-48C6-98AF-F3B3191176FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C674EF-3677-48C6-98AF-F3B3191176FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C674EF-3677-48C6-98AF-F3B3191176FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
